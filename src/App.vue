@@ -2,7 +2,7 @@
   <main>
     <header>
       <section>
-        <h1>Furkan Göğüş</h1>
+        <h1>furkhan</h1>
         <aside class="links">
           <a href="#about">About</a>
           <a href="#works">Works</a>
@@ -16,7 +16,7 @@
 
     <figure class="wrapper wrapper-hero">
       <section id="hero" xyz="fade left-4 duration-8 stagger-1">
-        <XyzTransition appear-visible><h1>Furkan Göğüş</h1></XyzTransition>
+        <XyzTransition appear-visible><h1>furkhan</h1></XyzTransition>
         <XyzTransition appear-visible><h2>Full stack developer</h2></XyzTransition>
         <XyzTransition appear-visible><p>I'm a full stack developer with over {{ new Date().getFullYear() - 2018 }} years of experience
         <br />More interested in front end</p></XyzTransition>
@@ -90,7 +90,7 @@
 
     <figure class="wrapper wrapper-accent">
       <section id="footer">
-        <p>Coded & designed by <span>Tarık Coşkun</span></p>
+        <p>Coded & designed by <span>Furkan Göğüş</span></p>
         <p>The source code is available on
           <a href="https://github.com/tarikcoskun/tarikcoskun.github.io"
           rel="noreferrer noopener"
