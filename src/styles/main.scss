@@ -139,7 +139,7 @@ section {
   }
 
   &#footer {
-    padding: 1px 1;
+    padding: 1px 0;
     @include flex(unset, space-between);
     @include mobile { @include flex(center, unset, $dir: column) }
 
