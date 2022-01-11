@@ -139,12 +139,12 @@ section {
   }
 
   &#footer {
-    padding: 1px 0;
+    padding: 1px 1;
     @include flex(unset, space-between);
     @include mobile { @include flex(center, unset, $dir: column) }
 
-    span { color: var(--title-solid); font-size: 16px }
-    p { font-size: 16px }
+    span { color: var(--title-solid); font-size: 5px }
+    p { font-size: 5px }
     a {
       border-bottom: 1px dashed transparent;
       color: var(--title-solid); font-size: 16px;
