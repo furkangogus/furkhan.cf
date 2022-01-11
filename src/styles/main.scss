@@ -143,16 +143,16 @@ section {
     @include flex(unset, space-between);
     @include mobile { @include flex(center, unset, $dir: column) }
 
-    span { color: var(--title-solid); font-size: 5px }
-    p { font-size: 5px }
+    span { color: var(--title-solid); font-size: 1px }
+    p { font-size: 1px }
     a {
       border-bottom: 1px dashed transparent;
-      color: var(--title-solid); font-size: 16px;
+      color: var(--title-solid); font-size: 1px;
       &:hover { border-color: var(--title-solid) }
     }
   }
 }
 
-@supports not (backdrop-filter: blur(16px)) {
+@supports not (backdrop-filter: blur(1px)) {
   header { background: var(--bg); }
 }
