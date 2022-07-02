@@ -17,13 +17,13 @@
     <figure class="wrapper wrapper-hero">
       <section id="hero" xyz="fade left-4 duration-8 stagger-1">
         <XyzTransition appear-visible><h1>furkhan</h1></XyzTransition>
-        <XyzTransition appear-visible><h2>NodeJS developer</h2></XyzTransition>
+        <XyzTransition appear-visible><h2>NodeJS, PHP and SQL developer</h2></XyzTransition>
         <XyzTransition appear-visible><p>I'm a full stack developer with over {{ new Date().getFullYear() - 2018 }} years of experience
         <br />More interested in front end</p></XyzTransition>
 
         <aside xyz="fade down-2 ease-out-back duration-20 delay-8 stagger-1" class="accounts"><XyzTransition appear-visible>
           <a
-            href="mailto:furkangogus06@gmail.com"
+            href="https://wa.me/+905516461551"
             class="button"
             rel="noreferrer noopener"
             target="_blank">Contact</a></XyzTransition><XyzTransition appear-visible>
