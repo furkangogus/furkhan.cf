@@ -6,7 +6,7 @@
         <aside class="links">
           <a href="#about">About</a>
           <a href="#works">Works</a>
-          <a href="mailto:furkangogus06@gmail.com"
+          <a href="https://wa.me/+905516461551"
             class="button"
             target="_blank"
             rel="noreferrer noopener">Contact</a>
@@ -17,7 +17,7 @@
     <figure class="wrapper wrapper-hero">
       <section id="hero" xyz="fade left-4 duration-8 stagger-1">
         <XyzTransition appear-visible><h1>furkhan</h1></XyzTransition>
-        <XyzTransition appear-visible><h2>Full stack developer</h2></XyzTransition>
+        <XyzTransition appear-visible><h2>NodeJS developer</h2></XyzTransition>
         <XyzTransition appear-visible><p>I'm a full stack developer with over {{ new Date().getFullYear() - 2018 }} years of experience
         <br />More interested in front end</p></XyzTransition>
 
@@ -32,7 +32,7 @@
             rel="noreferrer noopener"
             target="_blank"><GitHub /></a></XyzTransition><XyzTransition appear-visible>
           <a
-            href="https://twitter.com/tarikcskun"
+            href="https://twitter.com/furkhanJS"
             rel="noreferrer noopener"
             target="_blank"><Twitter /></a></XyzTransition>
         </aside>
